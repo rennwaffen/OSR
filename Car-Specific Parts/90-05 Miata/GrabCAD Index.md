@@ -1,6 +1,4 @@
 This is where links to existing models and files on GrabCAD will be posted. This is a very rough index, and will be improved over time. Backups of the index/initial submissions can be found in the "Code" section.
-
-90-05 Miata:
   
   [Complete Model of the 1995 Miata](https://grabcad.com/library/1995-mazda-miata-1)
 
