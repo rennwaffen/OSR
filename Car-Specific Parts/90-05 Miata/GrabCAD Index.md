@@ -2,7 +2,7 @@ This is where links to existing models and files on GrabCAD will be posted. This
   
   [Complete Model of the 1995 Miata](https://grabcad.com/library/1995-mazda-miata-1)
   
-  **Engine:**
+  **Engine:**  
   [Ranger MAF Adapter](https://grabcad.com/library/miata-airbox-to-ranger-maf-adaptor-1)
 
   [Intake Box Reducer](https://grabcad.com/library/intake-box-reducer-air-horn-1)
@@ -43,7 +43,7 @@ This is where links to existing models and files on GrabCAD will be posted. This
  
   [1.6 Intake Flange](https://grabcad.com/library/mazda-miata-1-dot-6-intake-flange)
 
-  **Exterior (including Aero):**
+  **Exterior (including Aero):**  
   [Door Handles](https://grabcad.com/library/miata-door-handles-1)
 
   [Hard Top Model](https://grabcad.com/library/miata-hard-top-1)
@@ -62,7 +62,7 @@ This is where links to existing models and files on GrabCAD will be posted. This
 
   [Dual Air Dam Inlet](https://grabcad.com/library/dual-air-dam-inlet-1)
   
-  **Interior:**  
+  **Interior:**
   [Nexus 7 Dash](https://grabcad.com/library/nexus-7-2012-miata-mx5-digital-dash-1)
   
   [NA Cup Holder Cell Phone Conversion](https://grabcad.com/library/na-mazda-miata-cup-holder-cell-phone-mod-1)
@@ -77,8 +77,7 @@ This is where links to existing models and files on GrabCAD will be posted. This
   
   [Power Windows Delete Plate](https://grabcad.com/library/power-windows-delete-plate-mazda-miata-na-1)
 
-  **Suspension and Brakes**
-  
+  **Suspension and Brakes:**  
   [305mm Porsche BBK](https://grabcad.com/library/mx5-miata-porsche-cayman-981-caliper-with-305mm-disc-1)  
   
   [Chassis Reinforcements](https://grabcad.com/library/mk1-mx5-chassis-reinforcement-rails-1)
@@ -97,7 +96,7 @@ This is where links to existing models and files on GrabCAD will be posted. This
   
   [NA Front Upright](https://grabcad.com/library/mazda-mx5-miata-front-upright)
   
-  NB? Steering Rack](https://grabcad.com/library/mazda-miata-steering-rack)
+  [NB? Steering Rack](https://grabcad.com/library/mazda-miata-steering-rack)
 
  
 
