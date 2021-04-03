@@ -5,4 +5,5 @@ Open Source Racing is a group effort; in other words, the community that uses th
 
 #Donate
 Our goal is to make racing affordable, but to do so we must find ways to remain afloat. Below is a donation link for whatever amount you can afford - anything helps:
+
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=8FTAHLHWHYQWN)
