@@ -23,7 +23,7 @@ The following companies provide high quality components. If you lack any of the 
 
 [Renderos Racing - Perfect Composites Work](https://renderosracing.com/)
 
-[RENN WAFFEN - Organizers of this Project, and have Long Lead Times](https://www.rennwaffen.com/)
+[RENN WAFFEN - Organizers of this Project](https://www.rennwaffen.com/)
 
 [Spiked Performance - Perfect for Laser Cut Components](https://spikedperformance.com/)
 
