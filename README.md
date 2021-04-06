@@ -25,7 +25,7 @@ United States:
 
 [Renderos Racing](https://renderosracing.com/)
 
-[RENN WAFFEN](https://www.rennwaffen.com/)
+[RENN WAFFEN (Organizers of this Project - long lead times)](https://www.rennwaffen.com/)
 
 [Spiked Performance](https://spikedperformance.com/)
 
