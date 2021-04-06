@@ -13,7 +13,7 @@ The idea behind Open Source Racing (henceforth OSR) is to use additive manufactu
 
 # Resale and Reproduction of Listed Files
 
-The following companies are trusted partners and provide high quality components. If you lack any of the necessary tools to make these parts on your own (e.g. you don't have a plywood cutter to cut the O-Katana), please feel free to reach out to any of the following manufacturers. 
+The following companies provide high quality components. If you lack any of the necessary tools to make these parts on your own (e.g. you don't have a plywood cutter to cut the O-Katana), please feel free to reach out to any of the following manufacturers. 
 
 United States:
 
