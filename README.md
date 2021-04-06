@@ -11,6 +11,21 @@ Too many incredibly talented individuals are unable to enter the fray because of
 
 The idea behind Open Source Racing (henceforth OSR) is to use additive manufacturing and various other digital tools - which are becoming exponentially more accessible as time goes on - to develop downloadable parts that would otherwise be inaccessible to most. It will also serve as a foundation to a new future of racing - one in which customizability of components can be taken to new extremes. It will serve to not only help drivers, but also shops who specialize in aerodynamics, chassis reinforcement, and race prep, by making blueprints that can be easily downloaded to be used in a build. As the project grows, prices will shrink - creating more opportunities for those who otherwise wouldn't have any to enter the racing world.
 
+# Resale and Reproduction of Listed Files
+
+The following companies are trusted partners and provide high quality components. If you lack any of the necessary tools to make these parts on your own (e.g. you don't have a plywood cutter to cut the O-Katana), please feel free to reach out to any of the following manufacturers. 
+
+United States:
+[Kazespec Engineering (site under maintenance 4/6/21)](https://kazespecengineering.com/)
+[Nine Lives Racing](https://9livesracing.com/)
+[Overtime Metalworks](https://www.facebook.com/overtimemetalworks/)
+[Renderos Racing](https://renderosracing.com/)
+[RENN WAFFEN](https://www.rennwaffen.com/)
+[Spiked Performance](https://spikedperformance.com/)
+
+Europe: 
+TBA 
+
 # Donations
 
 Our goal is to make racing affordable, but to do so we must find ways to remain afloat. Below is a donation link for whatever amount you can afford - anything helps:
