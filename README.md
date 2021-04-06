@@ -17,6 +17,8 @@ The following companies provide high quality components. If you lack any of the 
 
 [Kazespec Engineering (site under maintenance 4/6/21) - Perfect for CF Airfoils Based on Listed Designs](https://kazespecengineering.com/)
 
+[LYFE Motorsport - Perfect for Basically Anything](http://lyfemotorsport.com/)
+
 [Nine Lives Racing - Perfect for Wing Pylons/Uprights and Splitters](https://9livesracing.com/)
 
 [Overtime Metalworks - Perfect for Custom Fabrication](https://www.facebook.com/overtimemetalworks/)
