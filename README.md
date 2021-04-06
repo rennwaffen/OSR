@@ -16,11 +16,17 @@ The idea behind Open Source Racing (henceforth OSR) is to use additive manufactu
 The following companies are trusted partners and provide high quality components. If you lack any of the necessary tools to make these parts on your own (e.g. you don't have a plywood cutter to cut the O-Katana), please feel free to reach out to any of the following manufacturers. 
 
 United States:
+
 [Kazespec Engineering (site under maintenance 4/6/21)](https://kazespecengineering.com/)
+
 [Nine Lives Racing](https://9livesracing.com/)
+
 [Overtime Metalworks](https://www.facebook.com/overtimemetalworks/)
+
 [Renderos Racing](https://renderosracing.com/)
+
 [RENN WAFFEN](https://www.rennwaffen.com/)
+
 [Spiked Performance](https://spikedperformance.com/)
 
 Europe: 
