@@ -15,8 +15,6 @@ The idea behind Open Source Racing (henceforth OSR) is to use additive manufactu
 
 The following companies provide high quality components. If you lack any of the necessary tools to make these parts on your own (e.g. you don't have a plywood cutter to cut the O-Katana), please feel free to reach out to any of the following manufacturers. 
 
-United States:
-
 [Kazespec Engineering (site under maintenance 4/6/21) - Perfect for CF Airfoils Based on Listed Designs](https://kazespecengineering.com/)
 
 [Nine Lives Racing - Perfect for Wing Pylons/Uprights and Splitters](https://9livesracing.com/)
@@ -28,9 +26,6 @@ United States:
 [RENN WAFFEN - Organizers of this Project, and have Long Lead Times](https://www.rennwaffen.com/)
 
 [Spiked Performance - Perfect for Laser Cut Components](https://spikedperformance.com/)
-
-Europe: 
-TBA 
 
 # Donations
 
