@@ -17,17 +17,17 @@ The following companies provide high quality components. If you lack any of the 
 
 United States:
 
-[Kazespec Engineering (site under maintenance 4/6/21)](https://kazespecengineering.com/)
+[Kazespec Engineering (site under maintenance 4/6/21) - Perfect for CF Airfoils Based on Listed Designs](https://kazespecengineering.com/)
 
-[Nine Lives Racing](https://9livesracing.com/)
+[Nine Lives Racing - Perfect for Wing Pylons/Uprights and Splitters](https://9livesracing.com/)
 
-[Overtime Metalworks](https://www.facebook.com/overtimemetalworks/)
+[Overtime Metalworks - Perfect for Custom Fabrication](https://www.facebook.com/overtimemetalworks/)
 
-[Renderos Racing](https://renderosracing.com/)
+[Renderos Racing - Perfect Composites Work](https://renderosracing.com/)
 
-[RENN WAFFEN (Organizers of this Project - long lead times)](https://www.rennwaffen.com/)
+[RENN WAFFEN - Organizers of this Project, and have Long Lead Times](https://www.rennwaffen.com/)
 
-[Spiked Performance](https://spikedperformance.com/)
+[Spiked Performance - Perfect for Laser Cut Components](https://spikedperformance.com/)
 
 Europe: 
 TBA 
