@@ -11,3 +11,4 @@ Click [here](https://www.thingiverse.com/fpv_pilot/designs) and click "Tip Desig
 
 [Prusaslicer can be downloaded here](https://www.prusa3d.com/prusaslicer/)
 
+Bill of Materials: Coming Soon.
