@@ -1,4 +1,4 @@
-# IN PROGRESS
+# RW Factory CORE XY Rev.114
 
 Please donate $6 to FPV_Pilot on Thingiverse for their contribution to the project. 
 Without their CXY parts, this would not be possible. $6 is a very small price to pay considering how much printers can cost.
@@ -10,3 +10,4 @@ Click [here](https://www.thingiverse.com/fpv_pilot/designs) and click "Tip Desig
 [Cura can be downloaded here](https://ultimaker.com/software/ultimaker-cura)
 
 [Prusaslicer can be downloaded here](https://www.prusa3d.com/prusaslicer/)
+
