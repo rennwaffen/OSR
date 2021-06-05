@@ -7,6 +7,9 @@ Without their CXY parts, this would not be possible. $6 is a very small price to
 
 Click [here](https://www.thingiverse.com/fpv_pilot/designs) and click "Tip Designer".
 
+## Purpose of the Printer
+The RW Factory was designed to be an upgradeable, versatile, large build-volume printer using materials already on the market. It has gone through literal hundreds of revisions, and is a collective effort of numerous individuals. It is meant to be used for automotive components, hence why the parts found in the BOM will be on the more expensive end of the spectrum as it is imperative that the printer can withstand high temperatures. The Anycubic build plate can go up to 120°C with 
+
 [Marlin for the RW Factory can be downloaded here](https://github.com/rennwaffen/RW-Factory-CXY-Marlin)
 
 [Cura can be downloaded here](https://ultimaker.com/software/ultimaker-cura)
@@ -66,6 +69,13 @@ Anycubic Chiron Bed Mounting Plate: Currently Seeking Alternatives. Possibly wil
 [8MM Linear Rods](https://ebay.to/34P2ZDp)
 
 ## Electrical:
+
+[24V 480W Power Supply 20A](https://amzn.to/3x0lZLb)
+
+[24V 600W Power Supply 25A](https://amzn.to/3x143zW)
+
+[24V 4010 Dual Ball Bearing Fans](https://amzn.to/3chltQY)
+
 [BTT SKR 1.4 Turbo Mainboard](https://amzn.to/3zeo8F9)
 
 [BTT DCDC Module](https://amzn.to/3wXlLEA)
@@ -80,7 +90,16 @@ Anycubic Chiron Bed Mounting Plate: Currently Seeking Alternatives. Possibly wil
 
 [18AWG Wires](https://amzn.to/3z6ID6f)
 
-## Misc:
+## Hardware & Misc:
+
+[M3 Allen Bolts (between 6mm and 12mm lengths)](https://bit.ly/3gbZcoW)
+
+[M4 Allen Bolts (between 10mm and 16mm lengths, might not hurt to get other sizes as well)](https://bit.ly/3fR6bVk)
+
+[M3 T-Slot Nuts](https://amzn.to/3ckSGLq)
+
+[M4 T-Slot Nuts](https://amzn.to/3wZj8C7)
+
 [Stepper Motor Heatsinks](https://amzn.to/3x0yMND)
 
 [Push Plastics Carbon Fiber PC+PBT](https://bit.ly/34UCFrv)
