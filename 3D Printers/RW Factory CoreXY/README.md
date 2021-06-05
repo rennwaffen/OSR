@@ -15,6 +15,7 @@ Click [here](https://www.thingiverse.com/fpv_pilot/designs) and click "Tip Desig
 
 # Bill of Materials
 ## Hot End:
+
 [Mellow NF Wind Hotend](https://bit.ly/3imklPU)
 
 [Mellow NF Volcano](https://bit.ly/3cmH4rb)
@@ -33,6 +34,10 @@ Click [here](https://www.thingiverse.com/fpv_pilot/designs) and click "Tip Desig
 
 ## Chassis:
 
+[2040 Extrusions - Refer to the CAD files for length information]
+
+[2020 Extrusions - Refer to the CAD files for length information](https://ebay.to/2RreBtb)
+
 ## CoreXY Mechanism:
 
 [2x GT2 Toothed Idler Pulley Sets](https://amzn.to/3chjyfe)
@@ -40,6 +45,8 @@ Click [here](https://www.thingiverse.com/fpv_pilot/designs) and click "Tip Desig
 [2x GT2 Toothless Idler Pulley Sets](https://amzn.to/3z3iLbF)
 
 [Gates High Temperature EPDM Belt, 6mm, 5 meters (5000mm)](https://bit.ly/3cnT6Ay)
+
+[MGN12H Linear Guides - Refer to CAD files for length information](https://ebay.to/2SVP5MZ)
 
 ## Z Axis:
 [Anycubic Chiron Build Plate](https://amzn.to/3wXl2TS)
@@ -55,6 +62,8 @@ Anycubic Chiron Bed Mounting Plate: Currently Seeking Alternatives. Water jettin
 [Tr 8x2 Lead Screw](https://amzn.to/3x1xHFq)
 
 [Z-Axis Coupler](https://amzn.to/3ptU2Zx)
+
+[8MM Linear Rods](https://ebay.to/34P2ZDp)
 
 ## Electrical:
 [BTT SKR 1.4 Turbo Mainboard](https://amzn.to/3zeo8F9)
