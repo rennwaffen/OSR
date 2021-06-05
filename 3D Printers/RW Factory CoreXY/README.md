@@ -51,7 +51,7 @@ Click [here](https://www.thingiverse.com/fpv_pilot/designs) and click "Tip Desig
 ## Z Axis:
 [Anycubic Chiron Build Plate](https://amzn.to/3wXl2TS)
 
-Anycubic Chiron Bed Mounting Plate: Currently Seeking Alternatives. Water jetting is an option. 
+Anycubic Chiron Bed Mounting Plate: Currently Seeking Alternatives. Possibly will either go with a 2020 extrusion square or water jetting. 
 
 [Blue (softer) Bed Springs (10mm OD, 5mm ID, 25mm Length](https://amzn.to/3g9TILn)
 
