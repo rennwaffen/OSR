@@ -30,6 +30,9 @@ The RW Factory was designed to be an upgradeable, versatile, large build-volume 
 - Anycubic bed bracket is not available for sale - an alterantive approach is being explored. 
 - AmazonBasics 500W Heater is no longer available for sale. Alternatives are being explored. 
 
+## Future Plans:
+Overtime Metalworks will be getting involved in the development of the printer in order to offer an inexpensive parts package that can be purchased for assembly, including all of the necessary components. These will be water-jetted and CNC drilled and cut where applicable. This will allow for an even lighter gantry system, further reducing printhead weight, allowing for higher speeds and reduced costs as well as simpler assembly. 
+
 ## Firmware and Software
 - [Marlin for the RW Factory can be downloaded here](https://github.com/rennwaffen/RW-Factory-CXY-Marlin)
 - [Cura can be downloaded here](https://ultimaker.com/software/ultimaker-cura)
