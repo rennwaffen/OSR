@@ -16,42 +16,66 @@ Click [here](https://www.thingiverse.com/fpv_pilot/designs) and click "Tip Desig
 # Bill of Materials
 ## Hot End:
 [Mellow NF Wind Hotend](https://bit.ly/3imklPU)
+
 [Mellow NF Volcano](https://bit.ly/3cmH4rb)
+
 [E3D V6 Titanium Heat Throat](https://amzn.to/3gg9Uus)
+
 [E3D V6 Hardened Steel Nozzle](https://amzn.to/3ihbu21)
+
 [Alternative Heat Throat (cheaper)](https://amzn.to/3wYsoq1)
+
 [Capricorn Bodwen Tube (to help guide the filament)](https://amzn.to/3chAjXx)
+
 [E3D Pancake Stepper Driver](https://amzn.to/3ppMo2f)
+
 [Alternative Pancake Stepper Driver (cheaper)](https://amzn.to/3xdHQPx)
 
 ## Chassis:
 
 ## CoreXY Mechanism:
+
 [2x GT2 Toothed Idler Pulley Sets](https://amzn.to/3chjyfe)
+
 [2x GT2 Toothless Idler Pulley Sets](https://amzn.to/3z3iLbF)
+
 [Gates High Temperature EPDM Belt, 6mm, 5 meters (5000mm)](https://bit.ly/3cnT6Ay)
 
 ## Z Axis:
 [Anycubic Chiron Build Plate](https://amzn.to/3wXl2TS)
+
 Anycubic Chiron Bed Mounting Plate: Currently Seeking Alternatives. Water jetting is an option. 
+
 [Blue (softer) Bed Springs (10mm OD, 5mm ID, 25mm Length](https://amzn.to/3g9TILn)
+
 [Red (stiffer) Bed Springs (10mm OD, 5mm ID, 25mm Length](https://amzn.to/2RrWnb1)
+
 [Tr 8x2 Anti-Backlash Nut Plate](https://amzn.to/3cn1foZ)
+
 [Tr 8x2 Lead Screw](https://amzn.to/3x1xHFq)
+
 [Z-Axis Coupler](https://amzn.to/3ptU2Zx)
 
 ## Electrical:
 [BTT SKR 1.4 Turbo Mainboard](https://amzn.to/3zeo8F9)
+
 [BTT DCDC Module](https://amzn.to/3wXlLEA)
+
 [BTT TMC2209 Stepper Drivers](https://amzn.to/3vZHBXV)
+
 [Anycubic Mosfet for Bed](https://amzn.to/3z5vdHS)
+
 ~~Amazon Basics 500-Watt Ceramic Small Space Personal Mini Heater - Black~~ - Discontinued, seeking alternatives. 
+
 [Chamber Heater Solid State Relay](https://amzn.to/3z0wnVb)
+
 [18AWG Wires](https://amzn.to/3z6ID6f)
 
 ## Misc:
 [Stepper Motor Heatsinks](https://amzn.to/3x0yMND)
+
 [Push Plastics Carbon Fiber PC+PBT](https://bit.ly/34UCFrv)
+
 [3DXTech Carbon Fiber PC+](https://bit.ly/3vUJNzS)
 
 # Slicer Settings: Coming Soon.
