@@ -11,10 +11,10 @@ Click [here](https://www.thingiverse.com/fpv_pilot/designs) and click "Tip Desig
 The RW Factory was designed to be an upgradeable, versatile, large build-volume printer using materials already on the market. It has gone through literal hundreds of revisions, and is a collective effort of numerous individuals. It is meant to be used for automotive components, hence why the parts found in the BOM will be on the more expensive end of the spectrum as it is imperative that the printer can withstand high temperatures. The Anycubic build plate can go up to 120°C with the correct PSU. The chamber heater is capable of bringing the heat inside the chamber to 90°C, however it has been recently discontinued. The hot end has been tested up to 320°C. The CoreXY Mechanism allows for more precise and faster prints. 
 
 ## Specifications:
-### Print Speed: Maximum recorded for Priline Polycarbonate Carbon Fiber has been 80 mm/s. 
-### Hotend Temperature: Maximum recorded for 3DXTech CF Polycarbonate was 320°C, however 300°C was more than enough for that material. 
-### Bed Temperature: Maximum recorded for 3DXTech CF Polycarbonate was 120°C. Power usage increases significantly after 100°C. 
-### Chamber Temperature: Maximum recorded for Gizmodorks Clear Polycarbonate was 90°C. Power usage increases significantly with an improperly sealed chamber. 
+### **Print Speed:** Maximum recorded for Priline Polycarbonate Carbon Fiber has been 80 mm/s. 
+### **Hotend Temperature:** Maximum recorded for 3DXTech CF Polycarbonate was 320°C, however 300°C was more than enough for that material. 
+### **Bed Temperature:** Maximum recorded for 3DXTech CF Polycarbonate was 120°C. Power usage increases significantly after 100°C. 
+### **Chamber Temperature:** Maximum recorded for Gizmodorks Clear Polycarbonate was 90°C. Power usage increases significantly with an improperly sealed chamber. 
 
 ## Features:
 ### Mechanical bed leveling with the Anycubic Ultraglass bed eliminates the need for an automatic bed leveling system. 
