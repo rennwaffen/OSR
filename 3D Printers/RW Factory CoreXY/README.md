@@ -34,7 +34,7 @@ Click [here](https://www.thingiverse.com/fpv_pilot/designs) and click "Tip Desig
 
 ## Chassis:
 
-[2040 Extrusions - Refer to the CAD files for length information]
+[2040 Extrusions - Refer to the CAD files for length information](https://ebay.to/3w15PRC)
 
 [2020 Extrusions - Refer to the CAD files for length information](https://ebay.to/2RreBtb)
 
