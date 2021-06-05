@@ -11,30 +11,31 @@ Click [here](https://www.thingiverse.com/fpv_pilot/designs) and click "Tip Desig
 The RW Factory was designed to be an upgradeable, versatile, large build-volume printer using materials already on the market. It has gone through literal hundreds of revisions, and is a collective effort of numerous individuals. It is meant to be used for automotive components, hence why the parts found in the BOM will be on the more expensive end of the spectrum as it is imperative that the printer can withstand high temperatures. The Anycubic build plate can go up to 120°C with the correct PSU. The chamber heater is capable of bringing the heat inside the chamber to 90°C, however it has been recently discontinued. The hot end has been tested up to 320°C. The CoreXY Mechanism allows for more precise and faster prints. 
 
 ## Specifications:
-**Print Speed:** Maximum recorded for Priline Polycarbonate Carbon Fiber has been 80 mm/s. 
-**Hotend Temperature:** Maximum recorded for 3DXTech CF Polycarbonate was 320°C, however 300°C was more than enough for that material. 
-**Bed Temperature:** Maximum recorded for 3DXTech CF Polycarbonate was 120°C. Power usage increases significantly after 100°C. 
-**Chamber Temperature:** Maximum recorded for Gizmodorks Clear Polycarbonate was 90°C. Power usage increases significantly with an improperly sealed chamber. 
+- **Print Speed:** Maximum recorded for Priline Polycarbonate Carbon Fiber has been 80 mm/s. 
+- **Hotend Temperature:** Maximum recorded for 3DXTech CF Polycarbonate was 320°C, however 300°C was more than enough for that material. 
+- **Bed Temperature:** Maximum recorded for 3DXTech CF Polycarbonate was 120°C. Power usage increases significantly after 100°C. 
+- **Chamber Temperature:** Maximum recorded for Gizmodorks Clear Polycarbonate was 90°C. Power usage increases significantly with an improperly sealed chamber. 
 
 ## Features:
-Mechanical bed leveling with the Anycubic Ultraglass bed eliminates the need for an automatic bed leveling system. 
-Open Source Marlin 2.0 Firmware which can be customized to tailor the needs of the end user
-CoreXY mechanism allows for faster and more precise prints
-Heated chamber allows for high-temp materials to be printed faster, however it is still a work in progress. 
-Large 360mm x 430mm x 450mm build volume allows for large prints, however there is room for more on the X-axis. Future revisions will strive to maximize this. 
+- Mechanical bed leveling with the Anycubic Ultraglass bed eliminates the need for an automatic bed leveling system. 
+- Open Source Marlin 2.0 Firmware which can be customized to tailor the needs of the end user
+- CoreXY mechanism allows for faster and more precise prints
+- Heated chamber allows for high-temp materials to be printed faster, however it is still a work in progress. 
+- Large 360mm x 430mm x 450mm build volume allows for large prints, however there is room for more on the X-axis. Future revisions will strive to maximize this. 
 
 ## Issues: 
-Thermal runaway is currently at a high threshold.  
-X axis BV sacrifices 50mm of room. 
-Top section of the enclosure has yet to be designed
-Anycubic bed bracket is not available for sale - an alterantive approach is being explored. 
-AmazonBasics 500W Heater is no longer available for sale. Alternatives are being explored. 
+- Thermal runaway is currently at a high threshold.  
+- X axis BV sacrifices 50mm of room. 
+- Top section of the enclosure has yet to be designed
+- Anycubic bed bracket is not available for sale - an alterantive approach is being explored. 
+- AmazonBasics 500W Heater is no longer available for sale. Alternatives are being explored. 
 
-[Marlin for the RW Factory can be downloaded here](https://github.com/rennwaffen/RW-Factory-CXY-Marlin)
+## Firmware and Software
+- [Marlin for the RW Factory can be downloaded here](https://github.com/rennwaffen/RW-Factory-CXY-Marlin)
+- [Cura can be downloaded here](https://ultimaker.com/software/ultimaker-cura)
+- [Prusaslicer can be downloaded here](https://www.prusa3d.com/prusaslicer/)
 
-[Cura can be downloaded here](https://ultimaker.com/software/ultimaker-cura)
-
-[Prusaslicer can be downloaded here](https://www.prusa3d.com/prusaslicer/)
+## Slicer Settings: Coming Soon.
 
 # Bill of Materials
 ## Hot End:
@@ -128,4 +129,3 @@ Anycubic Chiron Bed Mounting Plate: Currently Seeking Alternatives. Possibly wil
 
 [3DXTech Carbon Fiber PC+](https://bit.ly/3vUJNzS)
 
-# Slicer Settings: Coming Soon.
