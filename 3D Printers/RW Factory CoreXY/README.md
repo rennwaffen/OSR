@@ -44,6 +44,7 @@ Overtime Metalworks will be getting involved in the development of the printer i
 ## Hot End:
 - [Mellow NF Wind Hotend](https://bit.ly/3imklPU)
 - [Mellow NF Volcano](https://bit.ly/3cmH4rb)
+- [T-D500 500℃ Thermistor](https://amzn.to/3fYnOm2)
 - [E3D V6 Titanium Heat Throat](https://amzn.to/3gg9Uus)
 - [E3D V6 Hardened Steel Nozzle](https://amzn.to/3ihbu21)
 - [Alternative Heat Throat (cheaper)](https://amzn.to/3wYsoq1)
