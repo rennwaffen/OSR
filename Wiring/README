@@ -1,0 +1,7 @@
+https://docs.google.com/spreadsheets/d/e/2PACX-1vTGo63sB_-csuxwyshztFRXiujr8Jl6dTo6Rn1Q7a_KazRHGQI9tkLzLVDt1qyRVkBbK7nR6YD9SoTT/pubhtml
+
+I've been working on open-sourcing parts of the build as a lot of these individual components and mini-projects can add up to thousands of dollars in costs. 
+This unfortunately also applies to safety components, and I was taught that wiring is by all means a safety component. 
+
+This diagram/reference table was assembled by my intern under my supervision. The car started and ran fine under this config, 
+however we are in the process of modifying it to add dbw. 
