@@ -5,3 +5,35 @@ This unfortunately also applies to safety components, and I was taught that wiri
 
 This diagram/reference table was assembled by my intern under my supervision. The car started and ran fine under this config, 
 however we are in the process of modifying it to add dbw. 
+
+Connectors Used (work in progress - thank you Alejo Nin for the reminder!):
+
+Note: if you like getting ripped off, you're welcome to use Bellenger. Otherwise, stick to wholesale and buy in bulk so that you can service your connectors as needed.
+
+  Cartek Connectors (TE AMPSEAL - way cheaper than getting them from Cartek): 
+    Boots: https://www.digikey.com/en/products/detail/te-connectivity-deutsch-ict-connectors/2389807-1/16186040
+    Connectors: https://www.digikey.com/en/products/base-product/te-connectivity-deutsch-connectors/1508/776164/194742
+    Terminals: https://www.digikey.com/en/products/filter/rectangular-connectors/rectangular-connector-contacts/331?s=N4Ig7CBcoIYE5QIwA5ECYA0IYBcoBYsAHASyjQGY0wKA2MAXwaA
+  Deutsch HDP Bulkhead Connectors:
+    Male side 47-pin: https://www.digikey.com/en/products/detail/te-connectivity-deutsch-connectors/HDP24-24-47SE/7220084
+    Male side 20-pin: 
+    Female side 47-pin:
+    Female side 20-pin:
+    Boot 90*: https://www.digikey.com/en/products/detail/te-connectivity-deutsch-ict-connectors/2428-011-2405/18086595
+    Boot 180*: https://www.digikey.com/en/products/detail/te-connectivity-deutsch-ict-connectors/2428-010-2405/18086622
+  ECU Connectors: 
+    12 Position (Conn 4): https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/917975-1/2331176
+    16 Position (Conn 2): https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/174514-6/2330827
+    22 Position (Conn 1): https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/174515-6/2330830
+    26 Position (Conn 3): https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/174516-6/2330834
+    16-20AWG terminals: https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/173631-1/2054229
+    18-22AWG terminals: https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/175265-1/2054239
+    20-22AWG terminals: https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/173716-1/744774
+  Ignition Coils (VAG R8)
+    VAG COP: https://www.fcpeuro.com/products/audi-vw-ignition-coil-bosch-06e905115f
+    Boots: https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/493581-1/2329181
+  MISC Sensor TE AMP MCP:
+    Seals: https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/828905-1/2054423
+    2-pin housing: https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/282189-1/744836
+    Terminals: https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/929939-3/2054507
+    Unknown (pulled from order history): https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/282104-1/1860715
