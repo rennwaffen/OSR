@@ -22,7 +22,7 @@ In this branch, you will find slicer profiles, reference printer configurations,
 - [Slice Engineering GammaMaster Nozzle (0.8mm Minimum)](https://www.fabreeko.com/products/gammamaster%C2%AE-nozzle?srsltid=AfmBOoof_qNUhG0ySzSbC-NE90RcohYIA1nrRvxDVCP_TOZQZLSe_uTs)
 ### [LMP3: Using E34M1 Phaetus UHF Mount](https://jon-harper.github.io/E34M1/modules/hotend/#phaetus-dragon-uhf)
 - [Phaetus Dragon](https://www.fabreeko.com/products/phaetus-dragon-uhf?srsltid=AfmBOoqcoVTzXgT83YADDV_rGX35MrsLY_lpfQ2zG5z8-LKBUPJjLrLm)
-- [Phaetus Spare Parts](https://www.fabreeko.com/products/phaetus-dragon-uhf-heatblock?srsltid=AfmBOoriewH9_J389VvogW6SXsp6SkAoceoQqMaj9gvD3Zg8zPTGbQae)\
+- [Phaetus Spare Parts](https://www.fabreeko.com/products/phaetus-dragon-uhf-heatblock?srsltid=AfmBOoriewH9_J389VvogW6SXsp6SkAoceoQqMaj9gvD3Zg8zPTGbQae)
 ### [LMP2: Using the E34M1 x OSR Mosquito Mount](https://jon-harper.github.io/E34M1/modules/hotend/#__tabbed_1_1)
 - [Mosquito Magnum Hotend](https://www.fabreeko.com/products/slice-engineering-the-mosquito-magnum-%C2%AE-hotend?srsltid=AfmBOootH0hZ-9DY64MbzT732plqXUqJH2KwYwCor0NiGR0TcxN_4Wth)
 ### [F1 Dual Heater: Using the E34M1 x OSR Takoto Mount (pending)]()
@@ -43,7 +43,7 @@ The printer uses an Ender 5+ as its base. From there, you must source the necess
 - [Zero G Mecury Conversion Kit](https://www.fabreeko.com/products/mercury-one-kit?srsltid=AfmBOooZG0IlUvTenBxHTilzx0JIuC_xdqZpJqy6Sz_SXX4RnYZ_S_-g)
 ### 2WD Configuration:
 - [Funssor Mercury 2WD Parts](https://www.aliexpress.us/item/3256806160572831.html?spm=a2g0o.order_list.order_list_main.41.53101802otLhdf&gatewayAdapt=glo2usa)
-### [4WD Configuration: See the original GitHub w/ BOM for printed parts, however below you will find links to machined parts as well. Thank you to Stanciu Andrei.](https://github.com/Stanciu-Andrei/UserMods/tree/main/Mercury_One/stanciuandrei_/AWD_Mod/AWD_MotorMounts_Front)
+### 4WD Configuration: [See the original GitHub w/ BOM for printed parts, however below you will find links to machined parts as well. Thank you to Stanciu Andrei.](https://github.com/Stanciu-Andrei/UserMods/tree/main/Mercury_One/stanciuandrei_/AWD_Mod/AWD_MotorMounts_Front)
 - [Funssor Mercury AWD Parts](https://www.aliexpress.us/item/3256807810508620.html)
 
 ## Z Axis:
