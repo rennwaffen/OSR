@@ -1,5 +1,5 @@
 # Open Source Racing Formula Mk. I
-![Lazy Susan](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/64a0eb04-f284-4d49-a48a-cb2dce6cd079/GIF_20250311_172744_409.gif)
+![OSR](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/714494f8-4467-436b-bc16-21db992a9a95/PSX_20250310_180152.jpg?content-type=image%2Fjpeg)
 ![Miata HL](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/a1f54af1-55d5-4328-a503-8a67fa4bf656/CAD+Headlights+1.jpg?content-type=image%2Fjpeg)
 ![Miata Headlights](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/1663892229466-XNIIXY0KBNB88MKIOO8C/306937596_10161513524232069_2610873126066207921_n.jpg?content-type=image%2Fjpeg)
 
