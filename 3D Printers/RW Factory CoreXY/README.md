@@ -1,4 +1,4 @@
-# RW Factory CORE XY Rev.114
+# RW Factory CORE XY Rev.114 (Obsolete - Leaving here for Nostalgia)
 
 ## **Note: it is your responsibility to assemble the printer correctly and to adjust the firmware to your specifications. No instructions are available for the time being.**
 
