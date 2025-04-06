@@ -1,5 +1,5 @@
 # Open Source Racing x ZeroG Formula Mk. I
-![OSR](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/714494f8-4467-436b-bc16-21db992a9a95/PSX_20250310_180152.jpg?content-type=image%2Fjpeg)
+![OSR](3D Printers/OSR Formula Mk.I/Images/GIF_20250311_172744_409.gif)
 ![Miata HL](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/a1f54af1-55d5-4328-a503-8a67fa4bf656/CAD+Headlights+1.jpg?content-type=image%2Fjpeg)
 ![Miata Headlights](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/1663892229466-XNIIXY0KBNB88MKIOO8C/306937596_10161513524232069_2610873126066207921_n.jpg?content-type=image%2Fjpeg)
 
@@ -42,6 +42,9 @@ From janky PLA to Form Futura's PA12, TPU, ASA, and more - all three configurati
 
 ## Chassis:
 The printer uses an Ender 5+ as its base. From there, you must source the necessary upgrades. 
+- [2020 Side Reinforcements](https://www.amazon.com/2020-Bracket-Aluminum-Extrusion-Connector/dp/B0B15L5YM1/)
+- [2040 Side Reinforcements](https://www.amazon.com/Seekliny-Connector-Accessories-Extrusion-Hardware/dp/B0CQ26ZXGG/)
+- [2020 Corner Brackets](https://www.amazon.com/uxcell-38x38x18mm-Connectors-Aluminum-Extrusion/dp/B0BY2RBZ33/)
 - [Blurolls Z Axis Stepper Mounts](https://www.aliexpress.us/item/3256806944087091.html?spm=a2g0o.order_list.order_list_main.10.53101802otLhdf&gatewayAdapt=glo2usa)
 ## CoreXY Mechanism:
 ### Universal Parts:
