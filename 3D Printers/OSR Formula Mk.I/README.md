@@ -1,5 +1,7 @@
 # Open Source Racing x ZeroG Formula Mk. I
 ![OSR](https://github.com/rennwaffen/OSR/blob/main/3D%20Printers/OSR%20Formula%20Mk.I/Images/GIF_20250311_172744_409.gif?raw=true)
+<br>
+<img src="https://github.com/rennwaffen/OSR/blob/main/3D%20Printers/OSR%20Formula%20Mk.I/Images/GIF_20250311_172744_409.gif" width="40" height="40" />
 ![Miata HL](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/a1f54af1-55d5-4328-a503-8a67fa4bf656/CAD+Headlights+1.jpg?content-type=image%2Fjpeg)
 ![Miata Headlights](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/1663892229466-XNIIXY0KBNB88MKIOO8C/306937596_10161513524232069_2610873126066207921_n.jpg?content-type=image%2Fjpeg)
 
