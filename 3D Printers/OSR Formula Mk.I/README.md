@@ -1,5 +1,5 @@
 # Open Source Racing Formula Mk. I
-![Lazy Susan](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/64a0eb04-f284-4d49-a48a-cb2dce6cd079/GIF_20250311_172744_409.gif?content-type=image%2Fgif)
+![Lazy Susan](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/64a0eb04-f284-4d49-a48a-cb2dce6cd079/GIF_20250311_172744_409.gif)
 
 ## **Note: it is your responsibility to assemble the printer correctly and to adjust the firmware to your specifications. The only available instructions are from ZeroG.**
 
