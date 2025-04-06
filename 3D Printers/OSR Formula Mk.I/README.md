@@ -1,5 +1,7 @@
 # Open Source Racing Formula Mk. I
 ![Lazy Susan](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/64a0eb04-f284-4d49-a48a-cb2dce6cd079/GIF_20250311_172744_409.gif)
+![Miata HL](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/a1f54af1-55d5-4328-a503-8a67fa4bf656/CAD+Headlights+1.jpg?content-type=image%2Fjpeg)
+![Miata Headlights](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/1663892229466-XNIIXY0KBNB88MKIOO8C/306937596_10161513524232069_2610873126066207921_n.jpg?content-type=image%2Fjpeg)
 
 ## **Note: it is your responsibility to assemble the printer correctly and to adjust the firmware to your specifications. The only available instructions are from ZeroG.**
 
@@ -9,7 +11,7 @@ The Formula is based on the Mercury Zero G Hydra, but optimized for automotive a
 In this branch, you will find slicer profiles, reference printer configurations, and necessary files. However, majority of the critical parts must be metal. As such, below you will find the exact components used in the making of the printers and their respective variations. 
 
 ## Polymer Selection:
-From janky PLA to Form Futura's PA12, the all three configurations were tested using a variety of materials and temperatures upwards of 350C being the upper limit of what the printed hotend parts can handle. Currently I'm working on a CNC variant of the E34M1 hotend mounts for the Mosquito and Takoto, which will be available once progress is made. 
+From janky PLA to Form Futura's PA12, TPU, ASA, and more - all three configurations were tested using a variety of materials and temperatures upwards of 350C being the upper limit of what the printed hotend parts can handle. Currently I'm working on a CNC variant of the E34M1 hotend mounts for the Mosquito and Takoto, which will be available once progress is made. 
 
 # Bill of Materials (Last Updated 4/5/2025 - Pending Further Additions). 
 
@@ -78,3 +80,16 @@ The printer uses an Ender 5+ as its base. From there, you must source the necess
 ## Hardware & Misc:
 - [PINECIL Soldering Iron](https://www.amazon.com/gp/product/B096X6SG13/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [M3x5x4 Heat Sets](https://www.fabreeko.com/products/threaded-heat-inserts-m3x5x4-100pc-per-bag?srsltid=AfmBOoreBBjgRY4t3ZLNcJIbDFNdxjRM5wcOHx-MkBAcq8jRzTUGp4hN)
+
+# Results Speak for Themselves:
+![GS Wide](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/aaba11cd-0132-44ee-8e49-ac5b2298ad4d/gscad.jpg?content-type=image%2Fjpeg)
+![GS Wide 2](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/ee6c9699-aabd-4dcb-b46f-a627b55a6ae9/PSX_20230101_133216.jpg?content-type=image%2Fjpeg)
+![Miata Wing](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/e3db159b-9d73-4369-a612-1100c56505e5/cad+wide+2.jpg?content-type=image%2Fjpeg)
+![Miata Wing 2](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/dd7f2ed5-3395-4141-8fb9-dee49ccdd2d9/PSX_20250315_114949.jpg?content-type=image%2Fjpeg)
+![TPU](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/66213ea4-bbc1-4566-b381-398ca904660d/PSX_20250329_164311.jpg?content-type=image%2Fjpeg)
+![Cover 1](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/24bbd57c-6802-40b9-8539-51778e91234e/cad+scan.jpg?content-type=image%2Fjpeg)
+![Cover 2](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/e265ccb3-e1fc-4adb-972f-7182d44f1cb5/PSX_20250315_113302.jpg?content-type=image%2Fjpeg)
+![Interior](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/99a70730-d095-453d-8740-9ed1fca80f6e/PSX_20250313_223251.jpg?content-type=image%2Fjpeg)
+![Evo 1](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/cf5b4b8d-d1ef-490e-9663-00ae8ee840f8/Screenshot+2025-03-15+111528.jpg?content-type=image%2Fjpeg)
+![Evo 2](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/4b4a29b5-2e9b-4c79-86fd-f6f0cc252ebe/PSX_20250315_111903.jpg?content-type=image%2Fjpeg)
+![Miata Wide](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/1721711703844-4SLAPKFNQUMZTYTFUMG5/PSX_20240116_180553.jpg?content-type=image%2Fjpeg)
