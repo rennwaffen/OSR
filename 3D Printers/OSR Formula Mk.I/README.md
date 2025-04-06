@@ -1,11 +1,15 @@
 # Open Source Racing Formula Mk. I
+![Lazy Susan](https://images.squarespace-cdn.com/content/57dad08459cc68194391b1a1/64a0eb04-f284-4d49-a48a-cb2dce6cd079/GIF_20250311_172744_409.gif?content-type=image%2Fgif)
 
 ## **Note: it is your responsibility to assemble the printer correctly and to adjust the firmware to your specifications. The only available instructions are from ZeroG.**
 
-## Purpose of the Printer
+## Purpose of the Printer:
 The Formula is based on the Mercury Zero G Hydra, but optimized for automotive and motorsports applications. Thousands of hours of print time and experimentation have been put into dialing in every component. You will find that many of the parts are shared with the Zero G, however the name of the game here is simple: maximum volumetric flow, and maximum reliability. As such, the base nozzle starts at 0.8. The bed was tested to temperatures up to (but not limited) 130*C. The chamber successfully reaches 60*C using the Amazon heater with an enclosure. 
 
 In this branch, you will find slicer profiles, reference printer configurations, and necessary files. However, majority of the critical parts must be metal. As such, below you will find the exact components used in the making of the printers and their respective variations. 
+
+## Polymer Selection:
+From janky PLA to Form Futura's PA12, the all three configurations were tested using a variety of materials and temperatures upwards of 350C being the upper limit of what the printed hotend parts can handle. Currently I'm working on a CNC variant of the E34M1 hotend mounts for the Mosquito and Takoto, which will be available once progress is made. 
 
 # Bill of Materials (Last Updated 4/5/2025 - Pending Further Additions). 
 
@@ -26,6 +30,7 @@ In this branch, you will find slicer profiles, reference printer configurations,
 ### LMP2: [Using the E34M1 x OSR Mosquito Mount](https://jon-harper.github.io/E34M1/modules/hotend/#__tabbed_1_1)
 - [Mosquito Magnum Hotend](https://www.fabreeko.com/products/slice-engineering-the-mosquito-magnum-%C2%AE-hotend?srsltid=AfmBOootH0hZ-9DY64MbzT732plqXUqJH2KwYwCor0NiGR0TcxN_4Wth)
 ### F1 Dual Heater: [Using the E34M1 x OSR Takoto Mount (pending)]()
+![F1](https://images.squarespace-cdn.com/content/v1/57dad08459cc68194391b1a1/1741662331148-5ZEPSR3QADV3PCNNEWQ3/PSX_20250310_175809.jpg?format=1000w)
 - [Mellow Volcano Adapter](https://www.aliexpress.us/item/3256803827110622.html?spm=a2g0o.order_list.order_list_main.5.53101802otLhdf&gatewayAdapt=glo2usa)
 - [Takoto Hotend](https://www.fabreeko.com/products/takoto-hotend?srsltid=AfmBOorwgK6AgN00jKfdAtrDPVv920yZT2iXQqc0eGkQ1dKgSzIS18iq)
 - [Slice Engineering Vanadium Nozzle - 1.4mm](https://www.fabreeko.com/products/copy-of-slice-engineering-copperhead%E2%84%A2-hot-block-heat-braker-for-creality?srsltid=AfmBOop4SIAiLKf6Gi6SpnFumPCAMKsph1NaIPLmw6QbAOjZpBsASDaA)
