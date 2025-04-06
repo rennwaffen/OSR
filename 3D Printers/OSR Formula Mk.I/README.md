@@ -45,7 +45,6 @@ The printer uses an Ender 5+ as its base. From there, you must source the necess
 - [2020 Side Reinforcements](https://www.amazon.com/2020-Bracket-Aluminum-Extrusion-Connector/dp/B0B15L5YM1/)
 - [2040 Side Reinforcements](https://www.amazon.com/Seekliny-Connector-Accessories-Extrusion-Hardware/dp/B0CQ26ZXGG/)
 - [2020 Corner Brackets](https://www.amazon.com/uxcell-38x38x18mm-Connectors-Aluminum-Extrusion/dp/B0BY2RBZ33/)
-- [Blurolls Z Axis Stepper Mounts](https://www.aliexpress.us/item/3256806944087091.html?spm=a2g0o.order_list.order_list_main.10.53101802otLhdf&gatewayAdapt=glo2usa)
 ## CoreXY Mechanism:
 ### Universal Parts:
 - [FYSTEC X-Axis Gantry](https://www.aliexpress.us/item/3256806396921029.html?spm=a2g0o.order_list.order_list_main.36.53101802otLhdf&gatewayAdapt=glo2usa)
@@ -57,6 +56,7 @@ The printer uses an Ender 5+ as its base. From there, you must source the necess
 - [Funssor Mercury AWD Parts](https://www.aliexpress.us/item/3256807810508620.html)
 
 ## Z Axis:
+- [Blurolls Z Axis Stepper Mounts](https://www.aliexpress.us/item/3256806944087091.html?spm=a2g0o.order_list.order_list_main.10.53101802otLhdf&gatewayAdapt=glo2usa)
 - [Funssor Z Axis Bed Mounts](https://www.aliexpress.us/item/3256808008220520.html?spm=a2g0o.order_list.order_list_main.20.53101802otLhdf&gatewayAdapt=glo2usa)
 - [500mm TR8X8 Steppers](https://www.aliexpress.us/item/3256803579101212.html)
 - [Honeybadger Textured Bed](https://www.fabreeko.com/products/open-beta-semi-satin-thin-dual-sided-textured-beds-by-honeybadger?srsltid=AfmBOooJGIyWiH-0rj6tI1F9kozR3OkUj5AvzX4JWZf8ifB053P8zuGT)
