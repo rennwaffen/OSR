@@ -72,6 +72,7 @@ The printer uses an Ender 5+ as its base. From there, you must source the necess
 - [Honeybadger Cable Sleeves](https://www.fabreeko.com/products/honeybadger-cable-sleeve?srsltid=AfmBOooIRwy1HkTjy9k7jBVgRIwXHwL3Qx2fCmm5BSucLCR_GOJzlzN7)
 - [IGUS CF9 Stepper Wire (Overkill)](https://www.digikey.com/en/products/detail/igus/CF9-05-04/18724259)
 - [IGUS CF35 CAN Wire](https://www.digikey.com/en/products/detail/igus/CF35-UL-05-04/12353134)
+- [LDO Superpower HT Motors](https://www.fabreeko.com/products/ldo-42sth48-2804-ac-ah-ahs80-super-power-motors-by-ldo?srsltid=AfmBOorV4lsqNdY0j-SP8wEtEY6Rl61enjlJqXZQ_4CSZVjsw_euK6xD&variant=43913432891647)
 - [Meanwell PSUs - 24V or 48V or both](https://www.aliexpress.us/item/3256807024522999.html?spm=a2g0o.order_list.order_list_main.81.53101802otLhdf&gatewayAdapt=glo2usa)
 - [Molex Connector Plug for Beacon](https://www.digikey.com/en/products/detail/molex/0355070400/403470)
 - [Molex Connector Terminals for Beacon](https://www.digikey.com/en/products/detail/molex/0502128000/280175)
